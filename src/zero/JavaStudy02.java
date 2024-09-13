@@ -1,5 +1,5 @@
 package zero;
-
+// 임남명
 import java.util.Scanner;
 
 public class JavaStudy02 {
